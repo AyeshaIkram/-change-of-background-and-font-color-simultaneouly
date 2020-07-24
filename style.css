@@ -1,0 +1,49 @@
+.main{
+    width: 70%;
+    top: 2em;
+  
+    justify-content: center;
+    margin-left: 25%;
+    margin-top: 10px;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: -.33px;
+    font-size: 1.125rem;
+ 
+   
+}
+p{display: block;
+
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
+#purple{
+   
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    padding: .6% .55% .5% .5%;
+   
+    border: none;
+    border-radius: 7px;
+    font-size: larger;
+}
+button:hover{
+    cursor: pointer;
+    border: none;
+    transform-box:  fill-box;
+}
+button::selection{
+    border: none;
+}
+#cd{
+    font-size: medium;
+    font-family: monospace;
+}
