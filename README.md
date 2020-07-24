@@ -1,1 +1,1 @@
-# -change-of-background-and-font-color-simultaneouly
+# -change-of-background-and-font-color-simultaneously
